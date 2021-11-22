@@ -11,7 +11,10 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "hola Mundo 2";
+        echo "Estoy en la barra master";
         ?>
+        
+        
+        <p>Otro paraafo</p>
     </body>
 </html>
