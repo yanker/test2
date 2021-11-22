@@ -8,7 +8,7 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title></title>
-        <script src="js/js.js"></script>        
+        <script src="js/script.js"></script>        
     </head>
     <body>
         <?php
