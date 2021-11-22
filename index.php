@@ -8,13 +8,14 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title></title>
+        <script src="js/script.js"></script>        
     </head>
     <body>
         <?php
         echo "Estoy en la barra master";
         ?>
         
-        
         <p>Otro paraafo</p>
+        <button onclick="hola();" value="pulsa"> hola</button>
     </body>
 </html>
