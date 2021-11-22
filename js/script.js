@@ -9,5 +9,3 @@ function hola(){
     alert('Hola Alex');
     
 }
-
-
