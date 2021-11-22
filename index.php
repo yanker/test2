@@ -8,10 +8,13 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title></title>
+        <script src="js/js.js"></script>        
     </head>
     <body>
         <?php
         echo "hola Mundo 2";
         ?>
+        
+        <button onclick="hola();" value="pulsa"> hola</button>
     </body>
 </html>
