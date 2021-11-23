@@ -13,6 +13,8 @@ and open the template in the editor.
     <body>
         <?php
         echo "hola Mundo 2";
+        echo "<br/>";
+        echo "Esta linea es solo en la rama DEV"
         ?>
         
         <button onclick="hola();" value="pulsa"> hola</button>
