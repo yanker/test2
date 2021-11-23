@@ -13,6 +13,9 @@ and open the template in the editor.
     <body>
         <?php
         echo "Estoy en la barra master";
+        echo "hola Mundo 2";
+        echo "<br/>";
+        echo "Esta linea es solo en la rama DEV"
         ?>
         
         <p>Otro paraafo</p>
